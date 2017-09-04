@@ -2,7 +2,7 @@
 Running mod_wsgi on Windows
 ===========================
 
-These instructions should no longer be used. To install mod_wsgi on Windows
+These instructions should no longer be used (why?). To install mod_wsgi on Windows
 run ``pip install mod_wsgi``. Once it has been successfully installed, run
 the command ``mod_wsgi-express module-config``. Copy the output of that
 command and add it to your Apache configuration to have it load mod_wsgi.
